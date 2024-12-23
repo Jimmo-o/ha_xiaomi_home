@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## v0.1.4b0
+### Added
+### Changed
+### Fixed
+- Fix miot cloud token refresh logic. [#307](https://github.com/XiaoMi/ha_xiaomi_home/pull/307)
+- Fix lan ctrl filter logic. [#303](https://github.com/XiaoMi/ha_xiaomi_home/pull/303)
+
+## v0.1.3
+### Added
+### Changed
+- Remove default bug label. [#276](https://github.com/XiaoMi/ha_xiaomi_home/pull/276)
+- Improve multi-language translation actions. [#256](https://github.com/XiaoMi/ha_xiaomi_home/pull/256)
+- Use aiohttp instead of waiting for blocking calls. [#227](https://github.com/XiaoMi/ha_xiaomi_home/pull/227)
+- Language supports dt. [#237](https://github.com/XiaoMi/ha_xiaomi_home/pull/237)
+### Fixed
+- Fix local control error. [#271](https://github.com/XiaoMi/ha_xiaomi_home/pull/271)
+- Fix README_zh and miot_storage. [#270](https://github.com/XiaoMi/ha_xiaomi_home/pull/270)
+
 ## v0.1.2
 ### Added
 - Support Xiaomi Heater devices. https://github.com/XiaoMi/ha_xiaomi_home/issues/124 https://github.com/XiaoMi/ha_xiaomi_home/issues/117
